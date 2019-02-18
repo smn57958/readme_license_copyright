@@ -103,20 +103,7 @@ Thank you to all our backers!
 
 ### Sponsors
 
-Support this project by becoming a sponsor. Your logo will show up here with a link to your website. [[Become a sponsor](https://opencollective.com/standard-readme#sponsor)]
-
-<a href="https://opencollective.com/standard-readme/sponsor/0/website" target="_blank"><img src="https://opencollective.com/standard-readme/sponsor/0/avatar.svg"></a>
-<a href="https://opencollective.com/standard-readme/sponsor/1/website" target="_blank"><img src="https://opencollective.com/standard-readme/sponsor/1/avatar.svg"></a>
-<a href="https://opencollective.com/standard-readme/sponsor/2/website" target="_blank"><img src="https://opencollective.com/standard-readme/sponsor/2/avatar.svg"></a>
-<a href="https://opencollective.com/standard-readme/sponsor/3/website" target="_blank"><img src="https://opencollective.com/standard-readme/sponsor/3/avatar.svg"></a>
-<a href="https://opencollective.com/standard-readme/sponsor/4/website" target="_blank"><img src="https://opencollective.com/standard-readme/sponsor/4/avatar.svg"></a>
-<a href="https://opencollective.com/standard-readme/sponsor/5/website" target="_blank"><img src="https://opencollective.com/standard-readme/sponsor/5/avatar.svg"></a>
-<a href="https://opencollective.com/standard-readme/sponsor/6/website" target="_blank"><img src="https://opencollective.com/standard-readme/sponsor/6/avatar.svg"></a>
-<a href="https://opencollective.com/standard-readme/sponsor/7/website" target="_blank"><img src="https://opencollective.com/standard-readme/sponsor/7/avatar.svg"></a>
-<a href="https://opencollective.com/standard-readme/sponsor/8/website" target="_blank"><img src="https://opencollective.com/standard-readme/sponsor/8/avatar.svg"></a>
-<a href="https://opencollective.com/standard-readme/sponsor/9/website" target="_blank"><img src="https://opencollective.com/standard-readme/sponsor/9/avatar.svg"></a>
-
-
+<a href="https://avatars2.githubusercontent.com/u/29903664?s=400&u=21053fffb6c023726b0251c27aafa61f43ed9465&v=4"></a>
 
 ## License
 
