@@ -1,7 +1,5 @@
 # Standard Readme
 
-[![Backers on Open Collective](https://opencollective.com/standard-readme/backers/badge.svg)](#backers) [![Sponsors on Open Collective](https://opencollective.com/standard-readme/sponsors/badge.svg)](#sponsors) [![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square)](https://github.com/smn57958/readme_license_copyright)
-
 > Standard Readme Style
 
 Your README file is normally the first entry point to your code. It should tell people why they should use your module, how they can install it, and how they can use it. Standardizing how you write your README makes creating and maintaining your READMEs easier. Great documentation takes work!
@@ -75,7 +73,6 @@ To see how the specification has been applied, see the [example-readmes](example
 
 ## Related Efforts
 
-- [Art of Readme](https://github.com/noffle/art-of-readme) - 💌 Learn the art of writing quality READMEs.
 - [open-source-template](https://github.com/smn57958/) - A README template to encourage open-source contributions.
 
 ## Maintainers
@@ -90,20 +87,16 @@ Standard Readme follows the [Contributor Covenant](http://contributor-covenant.o
 
 ### Contributors
 
-This project exists thanks to all the people who contribute. 
-<a href="graphs/contributors"><img src="https://opencollective.com/standard-readme/contributors.svg?width=890&button=false" /></a>
+This project exists thanks to all the people who contribute.
 
 
 ### Backers
 
 Thank you to all our backers!
 
-<a href="https://opencollective.com/standard-readme#backers" target="_blank"><img src="https://opencollective.com/standard-readme/backers.svg?width=890"></a>
-
-
 ### Sponsors
 
-<a href="https://avatars2.githubusercontent.com/u/29903664?s=400&u=21053fffb6c023726b0251c27aafa61f43ed9465&v=4"></a>
+[Sohan Milid Nipunage](https://github.com/smn57958/)<a href="https://avatars2.githubusercontent.com/u/29903664?s=400&u=21053fffb6c023726b0251c27aafa61f43ed9465&v=4/29903664.png"></a>
 
 ## License
 
